@@ -1,7 +1,7 @@
 # Taggrs Tracking Tag (Server)
 
-Taggrs is ontwikkeld voor en door marketeers. Ons doel is om de beste tracking toegankelijk te maken voor iedere bedrijf. Tracking kan je marketing campagnes maken of breken, maar goede tracking wordt steeds complexer. Veranderende wetgeving en nieuwe vereisten op het gebied van privacy, zorgen ervoor dat het verkrijgen van goede data steeds lastiger wordt.
+Taggrs has been developed for and by marketers. Our goal is to make the best tracking accessible to every company. Tracking can make or break your marketing campaigns, but good tracking is becoming increasingly complex. Changing laws and new requirements in the field of privacy are making it more difficult to obtain good data.
 
-Met Taggrs brengen we jou weer in control. Met server side tagging ben je zelf de baas over je data en heb je 100% inzicht en nauwkeurigheid. Gebruik de data voor analyse of voor het meten van conversies. Jij bepaalt.
+With Taggrs, we put you back in control. With server-side tagging, you are in charge of your data and have 100% insight and accuracy. Use the data for analysis or to measure conversions. You decide.
 
-De TAGGRS tracking tag kan je gebruiken om je gegevens te meten en te vergelijken met de client side op het TAGGRS dashboard.
+The TAGGRS tracking tag can be used to measure and compare your data with the server side on the TAGGRS dashboard.
